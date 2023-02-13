@@ -73,7 +73,9 @@ body{
     transition: 0.4s ease-out;
     }
         
-
+p {
+     font-size: 1.0em;
+}
 
 /* Navigation */
 nav {
@@ -132,7 +134,7 @@ ul.upgrades {
 }
 
 ul.upgrades li {
-    font-size: 1.1em;
+    font-size: 1.0em;
     margin-bottom: .5em;
     margin-left: 2em;
     position: relative;
